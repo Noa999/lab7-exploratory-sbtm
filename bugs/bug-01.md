@@ -30,8 +30,9 @@ UI дээр "Нийт ном: 9" гэж харуулсан боловч хүсн
 ## Нотолгоо (Evidence)
 - `evidence/api-books-list.txt` — `/api/books` хариу (8 ном)
 - `evidence/api-stats-count-bug.txt` — `/api/stats` хариу (`total:9`)
-- `screenshots/` — UI дээрх "Нийт ном: 9" текст, хүснэгтийн мөрийн
-  тоотой зэрэгцүүлсэн screenshot
+- `screenshots/bug01-bug02-table-overview.png` — UI дээрх
+  "Нийт ном: 9" текст, хүснэгтийн бодит 8 мөртэй зэрэгцүүлэн харуулсан
+  screenshot
 
 ## Нэмэлт тэмдэглэл
 Энэ зөрүү нь ном нэмэх/устгах бүрт тогтмол ажиглагдсан (анх 3 ном
