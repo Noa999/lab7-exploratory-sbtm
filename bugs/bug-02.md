@@ -1,6 +1,7 @@
 # Bug 02 — Оролтын validation байхгүй: хоосон/зайтай ном нэмэгддэг
 
 **Severity:** Medium
+**Олдсон аялал:** Saboteur — Хоосон болон зөвхөн зай бүхий утгыг зориуд оруулж validation шалгасан үед илэрсэн.
 **Орчин:** Chrome browser, Node.js, http://localhost:3000
 
 ## Урьдчилсан нөхцөл (Preconditions)
