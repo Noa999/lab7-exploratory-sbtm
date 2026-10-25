@@ -2,7 +2,7 @@
 
 **Severity:** Medium
 **Олдсон аялал:** Saboteur — Хоосон болон зөвхөн зай бүхий утгыг зориуд оруулж validation шалгасан үед илэрсэн.
-**Орчин:** Chrome browser, Node.js, http://localhost:3000
+**Орчин:** Opera browser, Node.js, http://localhost:3000
 
 ## Урьдчилсан нөхцөл (Preconditions)
 Апп энгийн байдлаар ажиллаж байгаа, "Нэмэx" товч ашиглах боломжтой.

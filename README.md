@@ -4,7 +4,7 @@
 **Оюутны код:** B232270804
 **Орчин:**
 - Node.js: v22.22.1
-- Browser: Google Chrome
+- Browser: Opera 137.0.6036.63
 - Апп: `app.js` (localhost:3000)
 
 ## Агуулга

@@ -2,7 +2,7 @@
 
 **Severity:** Medium
 **Олдсон аялал:** Back Alley — UI-ийн гол урсгалаас гадуурх "Хуучин хувилбар" линкийг сониуч занаар дарж үзэхэд илэрсэн.
-**Орчин:** Chrome browser, Node.js, http://localhost:3000
+**Орчин:** Opera browser, Node.js, http://localhost:3000
 
 ## Урьдчилсан нөхцөл (Preconditions)
 Апп энгийн байдлаар ажиллаж байгаа.
